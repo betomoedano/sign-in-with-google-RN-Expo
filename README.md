@@ -3,6 +3,7 @@
 ## Welcome! 🎉
 
 In this project we learn how to implement the Sign In with Google flow using Expo.
+Watch the video explanation in my [**YouTube Channel**](https://youtu.be/DN9dQ_6ezvA)
 
 <br />
 
@@ -46,4 +47,4 @@ Please consider following me:
 
 [**Figma**](https://www.figma.com/@betomoedano)
 
-[** 👈🏼 Check my blog**](https://www.codewithbeto.dev)
+[🏼 Check my blog](https://www.codewithbeto.dev)
