@@ -47,4 +47,4 @@ Please consider following me:
 
 [**Figma**](https://www.figma.com/@betomoedano)
 
-[🏼 Check my blog](https://www.codewithbeto.dev)
+[Check my blog](https://www.codewithbeto.dev)
